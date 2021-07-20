@@ -11,7 +11,6 @@ import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography'
-import { Contacts } from '..';
 import { CopyToClipboardText } from '../../../components/CopyToClipboardText';
 import {NATIONALITIES_HUMEN_NAME} from '../../../constants/nationality'
 
